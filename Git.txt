@@ -1,0 +1,9 @@
+Git 命令操作：
+
+  右键点击文件夹，Git Bash Here
+
+  指定用户和邮箱：git config --global user.name Mengweinan
+		 git config --global user.email m746318539@163.com
+  从github上clone仓库：git clone 复制的地址，仓库的文件就会下载到当前的这个文件夹
+
+  上传文件：
